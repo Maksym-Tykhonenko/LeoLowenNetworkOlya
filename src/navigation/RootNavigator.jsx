@@ -69,7 +69,7 @@ export default function RootNavigator() {
     };
 
     fetchData();
-  }, []);
+  }, []);///
 
   useEffect(() => {
     const finalizeProcess = async () => {
